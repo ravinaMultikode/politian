@@ -64,6 +64,7 @@ const DonationPageArea = () => {
                                           <img src={pay1} alt="" />
                                         </li>
                                         <li>
+                                        
                                           <img src={pay2} alt="" />
                                         </li>
                                         <li>
